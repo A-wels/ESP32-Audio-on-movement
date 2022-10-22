@@ -8,3 +8,6 @@ Parts:
 - 18650 Battery +  Battery shield
 - Relay
 - Loudspeaker
+
+Note:
+The HW-195 allows for pause/play and other controls. However, since the audio starts playing from the beginning on powerup, I simply cut the power of the mp3 player with a relay. 
