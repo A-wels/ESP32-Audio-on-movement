@@ -1,8 +1,10 @@
 # ESP32-Audio-on-movement
 
-Play audio when movement is detected by an HC-SR04 sensor. Uses an ESP32, an HW-195
+Play audio when movement is detected.
+
 Parts:
 - ESP32
+- HC-SR04
 - HW-195
 - MicroSD
 - 18650 Battery +  Battery shield
